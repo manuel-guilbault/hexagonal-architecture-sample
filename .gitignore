@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+/Database/*.dbmdl
+/Database/*.jfm
+/Database/*.publish.xml
